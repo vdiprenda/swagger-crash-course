@@ -5,11 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="811a9256-6233-49d6-a346-0d1dc28935e8" name="Changes" comment="Changes">
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/oneoonecode/swaggercrashcourse/controllers/CreateToDoItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/oneoonecode/swaggercrashcourse/controllers/CreateToDoItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/oneoonecode/swaggercrashcourse/controllers/GetAllToDoItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/oneoonecode/swaggercrashcourse/controllers/GetAllToDoItems.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/oneoonecode/swaggercrashcourse/controllers/UpdateToDoItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/oneoonecode/swaggercrashcourse/controllers/UpdateToDoItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/oneoonecode/swaggercrashcourse/models/ToDoItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/oneoonecode/swaggercrashcourse/models/ToDoItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oneoonecode/swaggercrashcourse/SwaggercrashcourseApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oneoonecode/swaggercrashcourse/SwaggercrashcourseApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oneoonecode/swaggercrashcourse/controllers/CreateToDoItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oneoonecode/swaggercrashcourse/controllers/CreateToDoItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oneoonecode/swaggercrashcourse/controllers/DeleteToDoItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oneoonecode/swaggercrashcourse/controllers/DeleteToDoItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oneoonecode/swaggercrashcourse/controllers/GetAllToDoItems.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oneoonecode/swaggercrashcourse/controllers/GetAllToDoItems.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oneoonecode/swaggercrashcourse/controllers/GetToDoItemById.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oneoonecode/swaggercrashcourse/controllers/GetToDoItemById.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oneoonecode/swaggercrashcourse/controllers/UpdateToDoItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oneoonecode/swaggercrashcourse/controllers/UpdateToDoItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oneoonecode/swaggercrashcourse/models/ToDoItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oneoonecode/swaggercrashcourse/models/ToDoItem.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +23,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -28,20 +39,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RequestMappingsPanelOrder0" value="0" />
-    <property name="RequestMappingsPanelOrder1" value="1" />
-    <property name="RequestMappingsPanelWidth0" value="75" />
-    <property name="RequestMappingsPanelWidth1" value="75" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/vincentdiprenda/IdeaProjects/swagger-crash-course",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "spring.configuration.checksum": "68061d84f80bb17fd6621779b4236f87",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.SwaggercrashcourseApplication">
     <configuration name="SwaggercrashcourseApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -79,6 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1641206466918</updated>
       <workItem from="1641206472549" duration="412000" />
+      <workItem from="1673014466694" duration="2500000" />
     </task>
     <servers />
   </component>
