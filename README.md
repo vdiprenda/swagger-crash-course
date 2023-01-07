@@ -17,4 +17,6 @@ https://mvnrepository.com/artifact/org.springdoc/springdoc-openapi-ui
 We'll now have out of the box swagger interface
 http://localhost:8080/swagger-ui/index.html
 
+* Change Project Name and Version
+
 
